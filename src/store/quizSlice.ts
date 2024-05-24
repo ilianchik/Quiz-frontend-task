@@ -12,7 +12,7 @@ const initialState: QuizState = {
       name: "Test quiz",
       latestScore: 0,
       bastScore: 0,
-      time: 500,
+      time: 60,
       questions: [
         {
           id: "1",
